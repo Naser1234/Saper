@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Сапер\saper\bin\Debug\saper.exe
+C:\Users\User\Desktop\Сапер\saper\bin\Debug\saper.pdb
+C:\Users\User\Desktop\Сапер\saper\obj\Debug\saper.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Сапер\saper\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\User\Desktop\Сапер\saper\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\User\Desktop\Сапер\saper\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\User\Desktop\Сапер\saper\obj\Debug\saper.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Сапер\saper\obj\Debug\saper.exe
+C:\Users\User\Desktop\Сапер\saper\obj\Debug\saper.pdb
